@@ -1,6 +1,6 @@
-# customer-segmentation-classification
+# Customer Segmentation Classification Machine Learning Models
 
-#### This dataset was from Kaggle: `https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation`
+#### This dataset was from Kaggle: [Customer Segmentation Classification](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
 
 ### This project will consist with the following procedures
 - EDA on every column (field)
