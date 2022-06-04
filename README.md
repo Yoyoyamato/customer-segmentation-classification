@@ -13,3 +13,10 @@
 - Non-linear Model Algorithms
 - Tune the models
 - Deep Dive in the best Model
+
+
+
+## Side note
+Things to do when more time
+- see if 4 segments is the optimal number of splits
+    - make the data into an unsupervised learning method and create a model that best splits them in k-clusters
