@@ -9,6 +9,8 @@
 - Find high correlations between columns
 - Feature Engineering
 - Feature Selection
+    - Using the Forward Stepwise Selection
+    - Using MSE as the metric
 - Base Model (Logisitic Regression)
 - Non-linear Model Algorithms
 - Tune the models
